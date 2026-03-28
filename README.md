@@ -61,6 +61,6 @@ Manage your license directly from the app. Try it risk-free with our free trial.
 
 ## 🤝 Support & Feedback
 
-If you encounter any issues, have feature requests, or want to provide feedback on the Beta, please contact us at **[Issues](support@nte-app.com)**.
+If you encounter any issues, have feature requests, or want to provide feedback on the Beta, please contact us directly at **[support@nte-app.com](mailto:support@nte-app.com)**.
 
 **Ready to save hours on your next report?** 👉 **[Download NtE Free Trial](https://nte-app.com/en)**
